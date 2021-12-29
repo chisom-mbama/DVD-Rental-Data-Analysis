@@ -15,7 +15,11 @@ I have answered four major questions using available data.
 
 ### Files used
 queries.sql - shows all sql queries with the problems being solved as comments before the queries
+
+
 report.pdf - shows visualisations of each extracted insights
+
+
 DVD Rental Database: https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 ### Requirements
