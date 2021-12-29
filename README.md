@@ -2,7 +2,7 @@
 29th of December 2021
 
 ### Project Title
-DVD Data Analysis Project
+DVD Data Analysis Project using SQL
 
 ### Description
 This project utilises the DVD Rental database which contains 15 related tables, to draw insights from the rental history of select films, using SQL.
