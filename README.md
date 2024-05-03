@@ -1,6 +1,6 @@
 ### Date created
 29th of December 2021
-Updated: April 2024
+- Updated: April 2024
 
 ### Project Title
 DVD Data Analysis Project using SQL
